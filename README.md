@@ -19,7 +19,7 @@
 
   * Edit the `sudoers` file using : `gedit /etc/sudoers` in your RHEL8. Follow the below pic and add the highlighted lines.
   
-  ![sudoers_edit](./sudoers.png)
+  ![sudoers_edit](sudoers.png)
   
 ### 2. Creating the git repository :
 
