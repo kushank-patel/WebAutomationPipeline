@@ -1,4 +1,4 @@
-# Web automation pipeline (given by Mr. Vimal Daga sir)
+# Web automation pipeline 
 
 
 ## Work Description :
